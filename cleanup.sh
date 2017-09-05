@@ -1,6 +1,3 @@
-# Delete bash history
-rm .bash_history
-
 # Delete ssh directory
 rm -rf ~/.ssh
 
@@ -10,3 +7,6 @@ rm -rf ~/Projects
 # Delete vim plugin and configurations.
 rm -rf ~/.vim
 rm ~/.vimrc
+
+# Delete bash history
+rm .bash_history
